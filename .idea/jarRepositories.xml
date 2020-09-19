@@ -52,6 +52,11 @@
       <option name="url" value="https://nexussrv.netcracker.com/content/repositories/nc.general.full_sync" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="io.spring.repo.maven.release" />
+      <option name="name" value="io.spring.repo.maven.release" />
+      <option name="url" value="http://repo.spring.io/release/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
